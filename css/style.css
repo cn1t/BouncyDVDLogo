@@ -11,3 +11,7 @@ body {
 marquee {
   height: 100vh;
 }
+
+#logo {
+  width: 12vw;
+}
